@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>我的部落格</title>
+		<link>https://chyu-3600.github.io/myblog/</link>
+		<description>Recent content on 我的部落格</description>
+		<generator>Hugo</generator>
+		<language>zh-Hant</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://chyu-3600.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>第一篇：開始寫作的基礎建設</title>
+				<link>https://chyu-3600.github.io/myblog/posts/hello/</link>
+				<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://chyu-3600.github.io/myblog/posts/hello/</guid>
+				<description>&lt;p&gt;這篇是自動建立的第一篇文章，用來確認整個流程可以正常跑起來。&lt;/p&gt;&#xA;&lt;h2 id=&#34;接下來你可以做的事&#34;&gt;接下來你可以做的事&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;修改 &lt;code&gt;hugo.yaml&lt;/code&gt; 的 &lt;code&gt;baseURL&lt;/code&gt; 與 &lt;code&gt;title&lt;/code&gt;（改成你自己的網域與名字）&lt;/li&gt;&#xA;&lt;li&gt;把這篇刪掉，換成你真正想寫的內容&lt;/li&gt;&#xA;&lt;li&gt;每次新增文章只要跑 &lt;code&gt;新增文章.bat&lt;/code&gt;，不用記指令&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;寫文章的語法&#34;&gt;寫文章的語法&lt;/h2&gt;&#xA;&lt;p&gt;標題用 &lt;code&gt;#&lt;/code&gt;、次標題用 &lt;code&gt;##&lt;/code&gt;，清單用 &lt;code&gt;-&lt;/code&gt;，程式碼用三個反引號包起來。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
